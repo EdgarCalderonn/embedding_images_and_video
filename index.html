@@ -2,12 +2,15 @@
 <html>
 
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title></title>
     <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
 </head>
 
 <body>
-    <header>
+    <div class="header">
         <div class="hamburger">
             <a href="#">
                 <svg>
@@ -20,7 +23,7 @@
             </a>
         </div>
 
-        <div class="search-section">
+        <div class="search-section wide">
             <form class="search" action="#">
                 <input type="text" placeholder="Search" name="search">
             
@@ -55,7 +58,7 @@
                 <img src="https://yt3.ggpht.com/-qTGsnQyawGk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re_SdjPmf4-64ZuCxjP3F4VR3HB6A/s88-c-k-c0xffffffff-no-rj-mo/photo.jpg">
             </a>
         </div>
-    </header>
+    </div>
 
 
     <div class="container">
@@ -63,7 +66,7 @@
             <div class="video">
                 <div class="video-container">
                     <iframe src="https://www.youtube.com/embed/rOO9sRDtgTE" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>        
-                </div>
+                </div><!--  video-container -->
                 <div class="video-title border-bottom">
                     <h2>BEST UFC KNOCKOUTS 2019</h2>
                     <div class="short-info">
@@ -120,10 +123,10 @@
                                     </svg>
                                 </a>    
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                        </div> <!--  like-share -->
+                    </div><!--  short-info -->
+                </div><!--  video-title -->
+            </div> <!--  video -->
             
             <div class="video-info border-bottom">
                 <div class="owner">
@@ -133,7 +136,7 @@
                 <div class="description">
 
                 </div>
-            </div>
+            </div> <!--  video-info -->
         </div>
         
         <!-- sidebar -->
@@ -186,7 +189,9 @@
     
         </div>
 
-        <div class="comments"></div>
+        <div>
+            <div class="comments"></div>
+        </div>
     </div>
 
 </body>
