@@ -26,7 +26,7 @@ a {
     background-color: white;
     position: fixed;
     padding: 8px;
-    height: 40px;
+    height: 50px;
     box-shadow: 0 5px 0 0 rgb(250, 250, 250);
 }
 
@@ -46,6 +46,7 @@ a {
 
 .logo{
     padding-left:0;
+    width: 100px;
 }
 
 .logo img {
@@ -227,6 +228,7 @@ a {
     fill: rgb(97, 97, 97, .6);
 }
 
+<<<<<<< HEAD
 /* Sidebar */
 .sidebar{
     margin-bottom: 16px;
@@ -321,3 +323,70 @@ a {
   }
 
 /*  */
+=======
+#logo-img
+{
+    width: 130px; 
+    height: 80px;
+    
+}
+
+#avatar-video-img
+{
+    height: 55px;
+    border-radius: 80px;
+}
+
+
+#subscribe-div
+{
+    float: left;
+}
+
+
+#subscribe-button
+{
+    width: 80px;
+    height: 30px;
+    border-radius: 8px;
+    background-color:#C63D1F;
+    text-align: center;
+    color: white;
+    border-color: #C63D1F;
+}
+
+#text-subscribe
+{
+    color: white;
+    text-align: center;
+}
+
+.thumbnail_images
+{
+    margin-top: 25px;
+    width: 120px;
+    max-width: 120px;
+    height: 80px;
+    max-height: 80px;
+    border-radius: 10px;
+    
+}
+
+#images
+{
+    float: right;
+}
+
+.thumbnail{
+    
+    display: flex;
+    align-content: center;
+    align-items: flex-end;
+
+}
+
+.info-thumbnail
+{
+   margin-left: 8px;
+}
+>>>>>>> 1b1eaccf59fd83f27c8fa4c79b291138c48b49b1
