@@ -7,19 +7,21 @@ aside {
 }
 
 .hamburger {
-    width:10%;
+
 }
 
 .logo{
-    width:20%;
+
 }
 
 .search-section{
-    width:40%;
+
 }
 
 .navigation{
-    width:30%;
+    display: flex;
+    flex-direction: row;
+
 }
 
 img.thumbnail_images{
@@ -30,6 +32,43 @@ img.thumbnail_images{
     max-height:95px;
     width: 230px;
     height: 95px;
+
+}
+
+#nav-bar
+{
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+header
+{
+    position: fixed; 
+    margin-bottom:20px; 
+    display: flex; 
+    width: 100%
+}
+
+#video-section
+{
+    padding-top: 100px; 
+    display: flex; 
+    width: 100%
+}
+
+.icons
+{
+    max-width: 55px;
+    width: 55px;
+
+}
+
+#navigation-section
+{
+
+    float: right;
 
 }
 
