@@ -7,7 +7,7 @@ This is our first project, we have to make a webpage similar to the youtube vide
 We created using image and video embedding and CSS grids and media query for the responsive layout.
 
 # GitHub page
-Live version:
+Live version:https://edgarcalderonn.github.io/embedding_images_and_video/
 
 # Authors
 * Edgar https://github.com/EdgarCalderonn/
