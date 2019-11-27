@@ -429,6 +429,27 @@ span{
     height: 94px;
 }
 
+.overlay{
+    display:block;
+    position: relative;
+}
+
+.video-length{
+    position: absolute;
+    bottom: 2px;
+    right: 0px;
+    margin: 4px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 2px 4px;
+    border-radius: 2px;
+    letter-spacing: .5px;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.2rem;
+}
+
+
 .info-thumbnail {
     margin-left: 10px;
     padding-right: 24px;
