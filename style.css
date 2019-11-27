@@ -302,70 +302,7 @@ span{
     font-family: Roboto Medium;
 }
 
-/* #logo-img
-{
-    width: 130px; 
-    height: 80px;
-}
 
-#avatar-video-img
-{
-    height: 55px;
-    border-radius: 80px;
-}
-
-
-.subscribe-div
-{
-    float: left;
-}
-
-
-#subscribe-button
-{
-    width: 80px;
-    height: 30px;
-    border-radius: 8px;
-    background-color:#C63D1F;
-    text-align: center;
-    color: white;
-    border-color: #C63D1F;
-}
-
-#text-subscribe
-{
-    color: white;
-    text-align: center;
-}
-
-.thumbnail_images
-{
-    margin-top: 25px;
-    width: 120px;
-    max-width: 120px;
-    height: 80px;
-    max-height: 80px;
-    border-radius: 10px;
-    
-}
-
-#images
-{
-    float: right;
-}
-
-.thumbnail{
-    
-    display: flex;
-    align-content: center;
-    align-items: flex-end;
-
-}
-
-.info-thumbnail
-{
-   margin-left: 8px;
-} */
 
 /*Sidebar*/
 
