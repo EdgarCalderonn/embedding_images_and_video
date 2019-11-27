@@ -9,6 +9,6 @@ We created using image and video embedding and CSS grids and media query for the
 # GitHub page
 Live version:
 
-#Authors
+# Authors
 * Edgar https://github.com/EdgarCalderonn/
 * Nurislam https://github.com/nurislam-ab
